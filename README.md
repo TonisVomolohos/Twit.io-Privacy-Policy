@@ -1,7 +1,7 @@
 Twit.io : Privacy policy
 Welcome to Twit.io game for Android!
 
-This is an Android game developed by Antonis Archontakis.The game is available on Google Play.
+This is an Android game developed by NoCap Productions.The game is available on Google Play.
 
 I have not programmed this app to collect any personally identifiable information. The only data created is your ingame high score which is stored on your device only, and can be simply erased by clearing the app's data or uninstalling it.
 
@@ -10,6 +10,6 @@ If you find any security vulnerability that has been inadvertently caused by me,
 This game fully complies with content policies and i ensure that my app is appropriate for children and compliant with all relevant laws.
 
 Kind regards,
-  Antonis Archontakis.
+   NoCap Productions.
 
 tonis121.aa@gmail.com
