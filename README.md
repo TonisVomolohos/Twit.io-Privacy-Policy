@@ -12,4 +12,4 @@ This game fully complies with content policies and i ensure that my app is appro
 Kind regards,
    NoCap Productions.
 
-tonis121.aa@gmail.com
+nocapprod.s@gmail.com
